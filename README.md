@@ -1,5 +1,9 @@
 ### Hello there, I'm Georgi 👋
 
+<div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" width="600" height="300"/>
+</div>
+
 
 
 
