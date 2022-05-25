@@ -1,20 +1,12 @@
 ### Hello there, I'm Georgi 👋
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)" width="600" height="300"/>
-</div>
 
-
-
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my education as a developer
 - 🌱 I’m currently learning on programming with Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on many different and interesting projects
+- 💬 You can aske me about anything
+- 📫 You can reach me on email: kirilov.georgi1214@gmail.com
+- ⚡ Fun fact: What’s a programmer’s favourite hangout place? Foo Bar
 
 ---
 
